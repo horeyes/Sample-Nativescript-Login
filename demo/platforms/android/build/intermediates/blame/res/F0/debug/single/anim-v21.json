@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Xeroz\\Desktop\\Development\\npm\\nativescript-login\\demo\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\Xeroz\\Desktop\\Development\\npm\\nativescript-login\\demo\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.0\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Xeroz\\Desktop\\Development\\npm\\nativescript-login\\demo\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\Xeroz\\Desktop\\Development\\npm\\nativescript-login\\demo\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.0\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+    }
+]

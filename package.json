@@ -1,0 +1,36 @@
+{
+  "name": "nativescript-login",
+  "version": "1.0.0",
+  "description": "An npm package for npzilla features",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "engines": {
+    "node": ">=4.2.4"
+  },
+  "author": "Hector Orellana <oreyes.hec@gmail.com> (http://www.underconstruction.com)",
+  "license": "WTFPL",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.3.0"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/horeyes/sample-nativescript-login.git"
+  },
+  "keywords": [
+    "Nativescript",
+    "Angular",
+    "2",
+    "TypeScript"
+  ],
+  "bugs": {
+    "url": "https://github.com/horeyes/sample-nativescript-login/issues"
+  },
+  "homepage": "https://github.com/horeyes/sample-nativescript-login#readme"
+}
