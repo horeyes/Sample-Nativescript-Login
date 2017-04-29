@@ -5,7 +5,7 @@ import { Page } from "ui/page";
     selector: "Login",
     templateUrl: "app.component.html",
 })
-export class AppComponent {
+export class LoginAppComponent {
     public title: string;
     public slogan: string;
 
