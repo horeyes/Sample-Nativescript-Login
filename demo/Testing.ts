@@ -16,7 +16,6 @@ export class AccordionComponent {
     exports: [
         AccordionComponent,
        
-    ],
-    schemas: [NO_ERRORS_SCHEMA]
+    ]
 })
 export class AccordionModule { }
